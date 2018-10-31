@@ -1,0 +1,6 @@
+<!-- arquivo para referenciar o contexto da chamada para o jboss. utilizado apenas pelo jboss. maiores informacoes em:
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/6.4/html/security_guide/jboss-webxml_configuration_reference
+-->
+<jboss-web>
+    <context-root>modeloArquiteturaSpring</context-root>
+</jboss-web>
